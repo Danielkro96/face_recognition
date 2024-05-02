@@ -1,0 +1,18 @@
+
+# PyCharm stuff
+.idea
+
+
+# python ENV stuff
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+.env
+.venv
+env/
+venv/
+
+
+# GIT stuff
+.git/
