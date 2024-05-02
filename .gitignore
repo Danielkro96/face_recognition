@@ -1,7 +1,5 @@
-
 # PyCharm stuff
 .idea
-
 
 # python ENV stuff
 Include/
@@ -12,7 +10,6 @@ pyvenv.cfg
 .venv
 env/
 venv/
-
 
 # GIT stuff
 .git/
