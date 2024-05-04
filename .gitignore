@@ -13,3 +13,5 @@ venv/
 
 # GIT stuff
 .git/
+
+captured_images/*
